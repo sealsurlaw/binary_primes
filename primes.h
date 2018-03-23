@@ -1,3 +1,11 @@
+/*============================*\
+|                              |
+| Author:  Dylan Wright        |
+| Created: March 22, 2018      |
+| Name:    primes.h            |
+|                              |
+\*============================*/
+
 #ifndef PRIMES_H
 #define PRIMES_H
 

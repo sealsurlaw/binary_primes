@@ -1,3 +1,11 @@
+/*============================*\
+|                              |
+| Author:  Dylan Wright        |
+| Created: March 22, 2018      |
+| Name:    primes.c            |
+|                              |
+\*============================*/
+
 #include <stdio.h>
 #include "primes.h"
 
