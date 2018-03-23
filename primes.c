@@ -12,7 +12,7 @@
 int main(void) {
    for (int i = 0; i < PRIMES_SIZE; ++i) {
       printf("%4d: ", i);
-      for (int j = ((int) 4*sizeof(int) - 1); j >= 0; --j) {
+      for (int j = ((int) 8*sizeof(int) - 1); j >= 0; --j) {
 	 char curr = ((primes[i]) >> j) & 1;
 	 if (curr == 1) printf(YELLOW);
 	 else           printf(RED);
